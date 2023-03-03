@@ -19,7 +19,7 @@ timezone: Asia/Jakarta
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Agung Nulis                          # the main title
+title: GINDRING NOTES.                        # the main title
 
 tagline: Nulis Dokumentasi Tech   # it will display as the sub-title
 
@@ -81,26 +81,26 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.licdn.com/dms/image/D5603AQGB-sD5vNybUg/profile-displayphoto-shrink_200_200/0/1676090591654?e=1681948800&v=beta&t=9zdisv4Jzdj4Hk1F6wANMCswu1lNY0jw3HW9xyps-nM
+avatar: https://lh6.googleusercontent.com/4LoU1Jf8glLsyf_869n2U7ztPYl5O8Ru-6-d06bqzI-7678OQDh8HNrjy4vI8FEWMvI=w2400
 
 # boolean type, the global switch for ToC in posts.
 toc: true
 
 comments:
-  active:         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: true         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
-    shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname: Agung Fachdillah   # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo:         # <gh-username>/<repo>
+    repo:         https://github.com/agungfadilnur/agungfadilnur.github.io.git
     issue_term:   # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo:              # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo:             https://github.com/agungfadilnur/agungfadilnur.github.io.git
+    repo_id:          https://github.com/agungfadilnur/agungfadilnur.git
+    category:         Internet Of Things
+    category_id:      iot
     mapping:           # optional, default to 'pathname'
     input_position:    # optional, default to 'bottom'
     lang:              # optional, default to the value of `site.lang`
