@@ -19,7 +19,7 @@ timezone: Asia/Jakarta
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: GINDRING NOTES.                        # the main title
+title: Agung Nulis                          # the main title
 
 tagline: Nulis Dokumentasi Tech   # it will display as the sub-title
 
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://lh6.googleusercontent.com/4LoU1Jf8glLsyf_869n2U7ztPYl5O8Ru-6-d06bqzI-7678OQDh8HNrjy4vI8FEWMvI=w2400
+avatar: https://media.licdn.com/dms/image/D5603AQGB-sD5vNybUg/profile-displayphoto-shrink_200_200/0/1676090591654?e=1681948800&v=beta&t=9zdisv4Jzdj4Hk1F6wANMCswu1lNY0jw3HW9xyps-nM
 
 # boolean type, the global switch for ToC in posts.
 toc: true
