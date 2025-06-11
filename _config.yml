@@ -2,10 +2,6 @@
 
 # Import the theme
 theme: jekyll-theme-chirpy
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-seo-tag
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
@@ -46,7 +42,7 @@ social:
   email: agungfadlnur@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    - https://twitter.com/agungsparta      # change to your twitter homepage
     - https://github.com/agungfadilnur      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -184,15 +180,15 @@ compress_html:
     envs: [development]
 
 exclude:
-  - '*.gem'
-  - '*.gemspec'
+  - "*.gem"
+  - "*.gemspec"
+  - docs
   - tools
   - README.md
-  - CHANGELOG.md
   - LICENSE
-  - gulpfile.js
-  - node_modules
-  - package*.json
+  - purgecss.js
+  - "*.config.js"
+  - "package*.json"
 
 jekyll-archives:
   enabled: [categories, tags]
