@@ -110,7 +110,6 @@ comments:
 assets:
   self_host:
     enabled: true
-    env: development
 
 pwa:
   enabled: true   # the option for PWA feature
