@@ -1,35 +1,54 @@
 [
+  
   {
-    "title": "Customize the Favicon",
-    "url": "/posts/customize-the-favicon/",
-    "categories": "Blogging, Tutorial",
-    "tags": "favicon",
-    "date": "2019-08-11 00:34:00 +0800",
-    "content": "The favicons of Chirpy are placed in the directory assets/img/favicons/. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons..."
+    "title": "Sekilas",
+    "url": "/posts/Apa-Itu-IoT/",
+    "categories": "Notes, Technogoly",
+    "tags": "Internet of Things, PCB Design",
+    "date": "2023-06-16 10:33:00 +0700",
+    
+
+
+
+
+
+    
+    "snippet": "Apa itu Internet of Things?Internet of Things atau bisa dikenal dengan IoT adalah sebuah konsep pada internet untuk dapat menghubungkan sebuah alat atau benda ke sebuah jaringan internet.",
+    "content": "Apa itu Internet of Things?Internet of Things atau bisa dikenal dengan IoT adalah sebuah konsep pada internet untuk dapat menghubungkan sebuah alat atau benda ke sebuah jaringan internet."
   },
+  
   {
-    "title": "Getting Started",
-    "url": "/posts/getting-started/",
-    "categories": "Blogging, Tutorial",
-    "tags": "getting started",
-    "date": "2019-08-09 20:55:00 +0800",
-    "content": "Get started with Chirpy basics in this comprehensive overview. You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server."
+    "title": "Dokumentasi xd",
+    "url": "/posts/Dokumentasi/",
+    "categories": "",
+    "tags": "",
+    "date": "2023-02-28 00:00:00 +0700",
+    
+
+
+
+
+
+    
+    "snippet": "AsoiAsoiuiudf,dm,dfd,fm,dskjdkjslskdlksdskdjkklsdsskjkdksjdjsdsdsdkjkkj    sadfs    sdsd    sds  ksjdksjddksnkdjskdPraesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas ...",
+    "content": "AsoiAsoiuiudf,dm,dfd,fm,dskjdkjslskdlksdskdjkklsdsskjkdksjdjsdsdsdkjkkj    sadfs    sdsd    sds  ksjdksjddksnkdjskdPraesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper libero non maximus. Integer ultricies velit id convallis varius. Praesent eu nisl eu urna finibus ultrices id nec ex. Mauris ac mattis quam. Fusce aliquam est nec sapien bibendum, vitae malesuada ligula condimentum."
   },
+  
   {
-    "title": "Writing a New Post",
-    "url": "/posts/write-a-new-post/",
-    "categories": "Blogging, Tutorial",
-    "tags": "writing",
-    "date": "2019-08-08 14:10:00 +0800",
-    "content": "This tutorial will guide you how to write a post in the Chirpy template, and it’s worth reading even if you’ve used Jekyll before, as many features require specific variables to be set.  Naming and..."
-  },
-  {
-    "title": "Text and Typography",
-    "url": "/posts/text-and-typography/",
-    "categories": "Blogging, Demo",
-    "tags": "typography",
-    "date": "2019-08-08 11:33:00 +0800",
-    "content": "Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more."
+    "title": "Perjalanan Dark Logic team (1)",
+    "url": "/posts/test-coba/",
+    "categories": "Notes, Technogoly",
+    "tags": "Internet of Things, PCB Design",
+    "date": "2019-08-08 10:33:00 +0700",
+    
+
+
+
+
+
+    
+    "snippet": "Dark Logic team mulai dikenal di kalangan mahasiswa Teknik Informatika Universitas Muhammadiyah Ponorogo. Beberapa bulan kemudian setelah didirikan, tim ini mulai dipandang mahasiswa diluar prodi.T...",
+    "content": "Dark Logic team mulai dikenal di kalangan mahasiswa Teknik Informatika Universitas Muhammadiyah Ponorogo. Beberapa bulan kemudian setelah didirikan, tim ini mulai dipandang mahasiswa diluar prodi.TitlesH1 - headingH2 - headingH3 - headingH4 - headingParagraphQuisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna facilisis ac. Phasellus semper dui non purus ultrices sodales. Aliquam ante lorem, ornare a feugiat ac, finibus nec mauris. Vivamus ut tristique nisi. Sed vel leo vulputate, efficitur risus non, posuere mi. Nullam tincidunt bibendum rutrum. Proin commodo ornare sapien. Vivamus interdum diam sed sapien blandit, sit amet aliquam risus mattis. Nullam arcu turpis, mollis quis laoreet at, placerat id nibh. Suspendisse venenatis eros eros.ListsOrdered list  Firstly  Secondly  ThirdlyUnordered list  Chapter          Section                  Paragraph                    ToDo list  Job          Step 1      Step 2      Step 3      Description list  Sun  the star around which the earth orbits  Moon  the natural satellite of the earth, visible by reflected light from the sunBlock Quote  This line shows the block quote.Prompts  An example showing the tip type prompt.  An example showing the info type prompt.  An example showing the warning type prompt.  An example showing the danger type prompt.Tables            Company      Contact      Country                  Alfreds Futterkiste      Maria Anders      Germany              Island Trading      Helen Bennett      UK              Magazzini Alimentari Riuniti      Giovanni Rovelli      Italy      Linkshttp://127.0.0.1:4000FootnoteClick the hook will locate the footnote1, and here is another footnote2.Dark/Light mode &amp; ShadowThe image below will toggle dark/light mode based on theme preference, notice it has shadows.VideoReverse Footnote            The footnote source &#8617;              The 2nd footnote source &#8617;      "
   }
   
 ]
