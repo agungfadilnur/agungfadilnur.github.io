@@ -1,7 +1,7 @@
 ---
 title: Menjelajahi Dunia Mikrokontroler, IoT, dan Desain PCB
 layout: post
-date: 12-06-2025 23:40:00
+date: 12-06-2025 21:40:00
 categories: [mikrokontroler, iot, pcb]
 tag: [Pcb Design, Coding]
 ---
