@@ -8,7 +8,7 @@ tag: [Pcb Design, Coding]
 
 ## Pengantar
 
-Dalam dunia teknologi modern, istilah seperti *mikrokontroler*, *Internet of Things (IoT)*, dan *desain PCB* makin sering terdengar. Ketiganya merupakan komponen penting dalam pengembangan perangkat pintar yang kini ada di mana-mana: dari smart home, wearable devices, hingga sistem monitoring industri. Artikel ini ditujukan untuk kamu yang ingin mulai memahami dasar-dasar dari ketiga bidang tersebut dan bagaimana mereka saling berkaitan.
+Dalam dunia teknologi modern, istilah seperti *mikrokontroler*, *Internet of Things (IoT)*, dan *desain PCB* makin sering terdengar. Ketiganya merupakan komponen penting dalam pengembangan perangkat pintar yang kini ada di mana-mana: dari smart home, wearable devices, hingga sistem monitoring industri. Artikel ini ditujukan untuk memahami dasar-dasar dari ketiga bidang tersebut dan bagaimana mereka saling berkaitan.
 
 ## Mikrokontroler: Otak dari Sistem Tertanam
 
@@ -44,6 +44,7 @@ Software populer untuk desain PCB:
 - KiCad (open source)
 - EasyEDA (berbasis web)
 - Altium Designer (profesional)
+- Autodesk Eagle (Berbayar)
 
 Tips dasar dalam desain PCB:
 - Gunakan lebar jalur yang sesuai dengan arus
