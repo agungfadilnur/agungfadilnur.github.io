@@ -21,7 +21,7 @@ timezone: Asia/Jakarta
 
 title: Gndrng.Labs                          # the main title
 
-tagline: Nulis Dokumentasi Tech   # it will display as the sub-title
+tagline: Nulis Dokumentasi Tech dan Perjalanan Hidup   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A Docs IoT, PCB Design
