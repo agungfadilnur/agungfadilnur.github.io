@@ -1,6 +1,8 @@
 ---
 title: Amplifier Class AB 16 Transistor
 layout: post
+image: assets/images/Socl 506 Heatsink.jpg
+description: Deskripsi singkat tentang postingan ini
 date: 19-07-2025 20:40:00
 categories: [Elektronika, Audio, PCB]
 tags: [Pcb Design, Power Amplifier, Class AB, Audio, Dokumentasi]
