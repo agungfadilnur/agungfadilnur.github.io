@@ -1,7 +1,7 @@
 ---
 title: Amplifier Class AB 16 Transistor
 layout: post
-image: assets/images/Socl 506 Heatsink.jpg
+image: assets/images/title/Socl 506 Heatsink.jpg
 description: Deskripsi singkat tentang postingan ini
 date: 19-07-2025 20:40:00
 categories: [Elektronika, Audio, PCB]
@@ -11,7 +11,7 @@ tags: [Pcb Design, Power Amplifier, Class AB, Audio, Dokumentasi]
 
 
 # Dokumentasi Pembuatan Power Amplifier Class AB
-
+d
 ## Pendahuluan
 Power amplifier atau penguat daya adalah rangkaian elektronik yang digunakan untuk memperkuat sinyal audio sehingga dapat menggerakkan speaker dengan daya yang cukup. Rangkaian ini merupakan komponen penting dalam sistem audio, mulai dari perangkat rumah tangga hingga sistem audio profesional.
 
