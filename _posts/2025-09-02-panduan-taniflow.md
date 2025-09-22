@@ -23,20 +23,6 @@ tags: [Dokumentasi, Manual-Penggunaan]
 | **Tanggal**     | September 2025                           |
 | **Akses**       | `192.168.4.1` *(Hotspot Mode)*           |
 
----
-
-## 📖 DAFTAR ISI
-
-1. [Pengenalan Sistem](#1--pengenalan-sistem)
-2. [Akses Pertama Kali](#2--akses-pertama-kali)
-3. [Navigasi Interface](#3--navigasi-interface)
-4. [Menu Waktu](#4--menu-waktu)
-5. [Menu Jadwal](#5--menu-jadwal)
-6. [Menu Kontrol](#6--menu-kontrol)
-7. [Menu Status](#7--menu-status)
-8. [Troubleshooting](#8--troubleshooting)
-9. [FAQ](#9--faq-frequently-asked-questions-frequently-asked-questions)
-10. [Technical Support](#10--technical-support)
 
 ---
 
@@ -126,7 +112,7 @@ Interface memiliki 4 menu utama yang dapat diakses dengan tap/klik:
 
 ---
 
-## 4. ⏱️ MENU WAKTU
+## 4. MENU WAKTU
 
 ### Fungsi Menu Waktu
 Menu ini digunakan untuk mengatur tanggal dan waktu sistem yang akurat. Waktu yang tepat sangat penting untuk menjalankan jadwal irigasi sesuai rencana.
@@ -437,7 +423,7 @@ Action: Troubleshooting required
 
 ---
 
-## 8. 🛠️ TROUBLESHOOTING
+## 8.  TROUBLESHOOTING
 
 ### Masalah Umum dan Solusi
 
