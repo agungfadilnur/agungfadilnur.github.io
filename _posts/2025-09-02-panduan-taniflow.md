@@ -1,7 +1,7 @@
 ---
 title: Manual Penggunaan Tani Flow
 layout: post
-image: assets/images/title/Socl 506 Heatsink.jpg
+image: assets/images/CASE X5_122201.jpg
 description: Panduan penggunaan produk sistem irigasi otomatis Tani Flow
 date: 02-09-2025 20:40:00
 categories: [Elektronika, Tani-Flow, Sistem-Kontrol]
@@ -732,4 +732,5 @@ Jadwal 1-15:
 - ⏱️ Waktu: Setting tanggal/waktu
 - 📅 Jadwal: Konfigurasi penyiraman  
 - 🎮 Kontrol: Manual on/off
+
 - 📊 Status: Monitor sistem
