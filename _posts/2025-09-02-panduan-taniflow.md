@@ -27,16 +27,16 @@ tags: [Dokumentasi, Manual-Penggunaan]
 
 ## 📖 DAFTAR ISI
 
-1. [Pengenalan Sistem](#pengenalan-sistem)
-2. [Akses Pertama Kali](#akses-pertama-kali)
-3. [Navigasi Interface](#navigasi-interface)
-4. [Menu Waktu](#menu-waktu)
-5. [Menu Jadwal](#menu-jadwal)
-6. [Menu Kontrol](#menu-kontrol)
-7. [Menu Status](#menu-status)
-8. [Troubleshooting](#troubleshooting)
-9. [FAQ](#faq)
-10. [Technical Support](#technical-support)
+1. [Pengenalan Sistem](#1--pengenalan-sistem)
+2. [Akses Pertama Kali](#2--akses-pertama-kali)
+3. [Navigasi Interface](#3--navigasi-interface)
+4. [Menu Waktu](#4--menu-waktu)
+5. [Menu Jadwal](#5--menu-jadwal)
+6. [Menu Kontrol](#6--menu-kontrol)
+7. [Menu Status](#7--menu-status)
+8. [Troubleshooting](#8--troubleshooting)
+9. [FAQ](#9--faq-frequently-asked-questions-frequently-asked-questions)
+10. [Technical Support](#10--technical-support)
 
 ---
 
@@ -117,6 +117,7 @@ Interface memiliki 4 menu utama yang dapat diakses dengan tap/klik:
 - **Copyright Info:** Informasi hak cipta dan versi
 - **Product Code:** Kode produk berdasarkan SSID perangkat
 
+> [!TIP]
 > 💡 **Tips Navigasi:**
 - **Active Tab:** Menu aktif ditandai dengan highlight warna hijau
 - **Smooth Scrolling:** Otomatis scroll ke atas saat ganti menu
@@ -170,6 +171,7 @@ Menu ini juga menampilkan informasi real-time:
 - **Alamat IP:** IP address perangkat (192.168.4.1)
 - **Status Koneksi:** Status koneksi real-time
 
+> [!NOTE]
 > ⏰ **Tips Setting Waktu:**
 - **Akurasi Penting:** Jadwal irigasi tergantung pada akurasi waktu
 - **Format 24 Jam:** Gunakan format 24 jam (contoh: 14:30 bukan 2:30 PM)
@@ -262,6 +264,7 @@ Jadwal 2:
 - Status: AKTIF
 ```
 
+> [!TIP]
 > 📌 **Tips Pengaturan Jadwal:**
 - **Hindari Overlapping:** Jangan buat jadwal yang waktunya bertabrakan
 - **Sesuaikan Durasi:** Durasi tergantung kebutuhan air tanaman
@@ -342,6 +345,7 @@ Status Irigasi: MATI
 - Skip jadwal saat akan maintenance
 - Adjustement kondisi khusus
 
+> [!IMPORTANT]
 > 🎯 **Tips Kontrol Manual:**
 - **Jangan Lupa Matikan:** Kontrol manual tidak auto-off
 - **Monitor Status:** Perhatikan indikator status real-time
@@ -424,6 +428,7 @@ Action: Troubleshooting required
 - Nilai normal: 0-3 detik
 - Jika >10 detik: kemungkinan ada masalah koneksi
 
+> [!TIP]
 > 📡 **Tips Monitoring:**
 - **Cek Rutin:** Periksa status minimal sekali sehari
 - **Verifikasi Trigger:** Pastikan jadwal berjalan sesuai rencana  
@@ -557,6 +562,7 @@ Action: Troubleshooting required
 - **Penyebab:** Error saat load konfigurasi jadwal
 - **Solusi:** Restart sistem, load ulang halaman
 
+> [!NOTE]
 > 🧾 **Tips Troubleshooting Umum:**
 1. **Restart First:** 80% masalah selesai dengan restart
 2. **Check Connection:** Pastikan WiFi connection stable
