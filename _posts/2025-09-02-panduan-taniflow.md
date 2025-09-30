@@ -16,7 +16,7 @@ tags: [Dokumentasi, Manual-Penggunaan]
 
 ## ℹ️ INFORMASI PRODUK
 | Item            | Detail                                   |
-|-----------------|------------------------------------------|
+| --------------- | ---------------------------------------- |
 | **Nama Produk** | Plantersens - Sistem Irigasi Otomatis    |
 | **Interface**   | Web Control Panel                        |
 | **Versi Manual**| 2.0                                      |
@@ -734,3 +734,4 @@ Jadwal 1-15:
 - 🎮 Kontrol: Manual on/off
 
 - 📊 Status: Monitor sistem
+
