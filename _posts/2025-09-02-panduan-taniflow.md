@@ -24,6 +24,12 @@ tags: [Dokumentasi, Manual-Penggunaan]
 | Akses           | `192.168.4.1` *(Hotspot Mode)*           |
 
 
+| Company                      | Contact          | Country |
+| :--------------------------- | :--------------- | ------: |
+| Alfreds Futterkiste          | Maria Anders     | Germany |
+| Island Trading               | Helen Bennett    |      UK |
+| Magazzini Alimentari Riuniti | Giovanni Rovelli |   Italy |
+
 ---
 
 ## 1. 🌍 PENGENALAN SISTEM
@@ -734,6 +740,7 @@ Jadwal 1-15:
 - 🎮 Kontrol: Manual on/off
 
 - 📊 Status: Monitor sistem
+
 
 
 
