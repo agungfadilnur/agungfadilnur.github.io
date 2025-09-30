@@ -28,7 +28,7 @@ tags: [Dokumentasi, Manual-Penggunaan]
 | :--------------------------- | :--------------- | ------: |
 | Alfreds Futterkiste          | Maria Anders     | Germany |
 | Island Trading               | Helen Bennett    |      UK |
-| Magazzini Alimentari Riuniti | Giovanni Rovelli |   Italy |
+| Magazzini Alimentari Riuniti |  `192.168.4.1` *(Hotspot Mode)* |   Italy |
 
 ---
 
@@ -740,6 +740,7 @@ Jadwal 1-15:
 - 🎮 Kontrol: Manual on/off
 
 - 📊 Status: Monitor sistem
+
 
 
 
