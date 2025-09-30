@@ -17,11 +17,11 @@ tags: [Dokumentasi, Manual-Penggunaan]
 ## ℹ️ INFORMASI PRODUK
 | Item            | Detail                                   |
 | --------------- | ---------------------------------------- |
-| **Nama Produk** | Plantersens - Sistem Irigasi Otomatis    |
-| **Interface**   | Web Control Panel                        |
-| **Versi Manual**| 2.0                                      |
-| **Tanggal**     | September 2025                           |
-| **Akses**       | `192.168.4.1` *(Hotspot Mode)*           |
+| Nama Produk     | Plantersens - Sistem Irigasi Otomatis    |
+| Interface       | Web Control Panel                        |
+| Versi Manual    | 2.0                                      |
+| Tanggal         | September 2025                           |
+| Akses           | `192.168.4.1` *(Hotspot Mode)*           |
 
 
 ---
@@ -734,4 +734,5 @@ Jadwal 1-15:
 - 🎮 Kontrol: Manual on/off
 
 - 📊 Status: Monitor sistem
+
 
