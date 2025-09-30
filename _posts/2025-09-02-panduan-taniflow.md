@@ -14,22 +14,15 @@ tags: [Dokumentasi, Manual-Penggunaan]
 
 ---
 
-## INFORMASI PRODUK
+## ℹ️ INFORMASI PRODUK
 
 | Item            | Detail                                   |
 | --------------- | ---------------------------------------- |
-| Nama Produk     | Plantersens - Sistem Irigasi Otomatis    |
-| Interface       | Web Control Panel                        |
-| Versi Manual    | 2.0                                      |
-| Tanggal         | September 2025                           |
-| Akses           | `192.168.4.1` *(Hotspot Mode)*           |
-
-
-| Company                      | Contact          | Country |
-| :--------------------------- | :--------------- | ------: |
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Island Trading               | Helen Bennett    |      UK |
-| Magazzini Alimentari Riuniti |  `192.168.4.1` *(Hotspot Mode)* |   Italy |
+| **Nama Produk** | Plantersens - Sistem Irigasi Otomatis    |
+| **Interface**   | Web Control Panel                        |
+| **Versi Manual**| 2.0                                      |
+| **Tanggal**     | September 2025                           |
+| **Akses**       | `192.168.4.1` *(Hotspot Mode)*           |
 
 ---
 
@@ -741,6 +734,7 @@ Jadwal 1-15:
 - 🎮 Kontrol: Manual on/off
 
 - 📊 Status: Monitor sistem
+
 
 
 
